@@ -1,0 +1,19 @@
+{
+    "_id" : "",
+    "birthday":"",
+    "nickname":"",
+    "introduce":"",
+    "phone":"",
+    "password":"",
+    "email":"",
+    "sex":"",
+    "address":"",
+    "headerUrl":"",
+    "openid":"",
+    "countrys":"$[]String",
+    "cities":"$[]String",
+    "collectionTravel":"$[]String",
+    "collectionstrategyids":"$[]String",
+    "friendids":"$[]String",
+    "collectiongoodids":"$[]String"
+}

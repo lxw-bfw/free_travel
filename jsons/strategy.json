@@ -1,0 +1,17 @@
+{
+    "_id":"",
+    "placename": "",
+    "city":"", 
+    "title": "",
+    "tags":"$[]String",
+    "puhlishid":"",
+    "userHeader":"",
+    "author":"",
+    "goodsid":"",
+    "startids":"$[]String",
+    "collectionsids":"",
+    "commentids":"",
+    "type":"",
+    "imgs":"",
+    "pendingState":""
+}
